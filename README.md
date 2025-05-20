@@ -1,5 +1,13 @@
-## Hi there 👋
+<h1 align="center"> Hi 👋, I'm Facundo Cabral </h1>
+<h3 align="center"> Student at UNMSM </h3>
 
+* 📚 I'm currently studying for a degree in Economics
+* 📊 I'm currently a Data Engineering Intern
+* 🌱 I'm currently learning abuot Machine Learning and Process Optimization 
+
+<h3> Tools I use! 🛠️</h1>
+
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/Jupyter-ffc920?style=for-the-badge&logo=jupyter&logoColor=000000)
 <!--
 **f4ckundocv/f4ckundocv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
