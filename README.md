@@ -3,7 +3,7 @@
 
 * 📚 I'm currently studying for a degree in Economics
 * 📊 I'm currently a Data Engineering Intern
-* 🌱 I'm currently learning abuot Machine Learning and Process Optimization 
+* 🌱 I'm currently learning about Machine Learning and Process Optimization 
 
 <h3> Tools I use! 🛠️</h1>
 
